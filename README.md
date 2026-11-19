@@ -31,6 +31,7 @@
 ```bash
 pip install -r requirements.txt
 ```
+Запустите код
 
 ## Работу выполнили
 Текалин Артём
